@@ -1,0 +1,2 @@
+1.Buatlah Program untuk menjumlahkan bilangan bulat yang dimasukkan melalui keyboard, batas awal (i) bertipe integer, batas akhir(n) bertipe integer dan jumlah (sum) bertipe integer untuk menyimpan total bilangan bulat
+2.Buat Program untuk menyusun nomor dus air 2,4,6,…18 (gunakan looping) ke dalam rang kontainer yang memuat ukuran 3 x 3, setiap dus akan diberi nomor sebanyak jumlah dus dan ukuran container
